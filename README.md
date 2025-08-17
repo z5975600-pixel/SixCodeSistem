@@ -49,10 +49,11 @@ python server.py --port 5000 --root storage
 --root — папка, к которой будет доступ клиент.
 
 3. Запуск клиента
-Linux
+   
+Linux:
 python3 client.py 192.168.1.10 123456 --port 5000
 
-Windows
+Windows:
 python client.py 192.168.1.10 123456 --port 5000
 
 

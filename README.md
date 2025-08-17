@@ -35,6 +35,7 @@ python3 sixcode_admin.py new 1
 
 python3 sixcode_admin.py revoke 123456
 
+
 2. Запуск сервера
 
 Linux:
@@ -47,6 +48,7 @@ python server.py --port 5000 --root storage
 --port — порт, который слушает сервер.
 
 --root — папка, к которой будет доступ клиент.
+
 
 3. Запуск клиента
    
